@@ -5,7 +5,8 @@ Click on images for further demo videos.
 
 ## Overview
 
-This project focuses on training an AI agent to play the game of Breakout using the Asynchronous Advantage Actor-Critic (A3C) algorithm. A3C is a powerful deep reinforcement learning algorithm that combines the benefits of Actor-Critic methods with asynchronous training. By employing Long Short-Term Memory (LSTM) networks, the AI agent learns to effectively play Breakout, achieving high scores and demonstrating its proficiency in the game.
+A course project developed for the Udemy course "Artificial Intelligence A-Z™ 2023: Build an AI with ChatGPT4
+." This project focuses on training an AI agent to play the game of Breakout using the Asynchronous Advantage Actor-Critic (A3C) algorithm. A3C is a powerful deep reinforcement learning algorithm that combines the benefits of Actor-Critic methods with asynchronous training. By employing Long Short-Term Memory (LSTM) networks, the AI agent learns to effectively play Breakout, achieving high scores and demonstrating its proficiency in the game.
 
 ## Project Plan
 
